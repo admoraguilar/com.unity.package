@@ -8,8 +8,8 @@
   "dependencies": {
     "com.unity.some-package": "1.0.0",
     "com.unity.other-package": "2.0.0"
- },
- "keywords": [
+  },
+  "keywords": [
     "droplet",
     "dropletframework"
   ],
@@ -18,4 +18,16 @@
     "email": "admor.aguilar@gmail.com",
     "url": "https://admoraguilar.github.io/"
   }
+  "samples": [
+  {
+    "displayName": "Sample Name 1",
+    "description": "Description for sample 1",
+    "path": "Samples~/Sample Folder 1"
+  },
+  {
+    "displayName": "Sample Name 1",
+    "description": "Description for sample 1",
+    "path": "Samples~/Sample Folder 1"
+  },
+  ]
 }
